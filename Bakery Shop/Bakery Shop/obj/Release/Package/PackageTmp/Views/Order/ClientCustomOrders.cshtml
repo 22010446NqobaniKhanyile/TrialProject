@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Bakery_Shop.Models.CustomOrder>
+@{
+    ViewBag.Title = "Client Custom Orders";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<div class="card">
+    <div class="table-responsive pt-3">
+        <table class="table table-striped project-orders-table">
+            <thead>
+                <tr>
+                    <th>Order No</th>
+                    <th>Name(s)</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Bill Status</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count() == 0)
+                {
+                    <tr>
+                        <td colspan="5">
+                            <p>There are <b>0</b> order(s) at a moment.</p>
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>@item.CustomOrderID</td>
+                        <td>@item.FirstName  @item.LastName</td>
+                        <td>@item.Email</td>
+                        <td>@item.Phone</td>
+                        <td>
+                            @if (item.IsPaymentCompleted)
+                            {
+                                <p class="text-success">OK</p>
+                            }
+                            else
+                            {
+                                if (!item.IsPaymentCompleted)
+                                {
+                                    <p class="text-danger">Payment Required</p>
+                                }
+                            }
+                        </td>
+                        <td>
+                            @if (!item.IsPaymentCompleted)
+                            {
+                                <a class="btn btn-danger" href="@Url.Action("DeclineOrder", "Order", new {id=item.CustomOrderID})">Decline Order</a>
+                            }
+
+                            @if (item.IsPaymentCompleted)
+                            {
+                                <a class="btn btn-warning" href="@Url.Action("More", "Order", new {id=item.CustomOrderID})">More</a>
+                            }
+                        </td>
+                    </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

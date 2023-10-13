@@ -1,0 +1,101 @@
+﻿@model Bakery_Shop.Models.Decobooking
+
+@{
+    ViewBag.Title = "startpayment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div align="center">
+    <h2>start payment</h2>
+</div>
+
+<br />
+
+
+
+<div class="row">
+
+
+
+    <div class="col-sm-5">
+           
+            <dt>
+                @Html.DisplayNameFor(model => model.Bookingdate)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Bookingdate)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Numberofguest)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Numberofguest)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Isdeliveryrequested)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Isdeliveryrequested)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Address)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Address)
+            </dd>
+
+            
+            <dt>
+                @Html.DisplayNameFor(model => model.Bookingfee)
+            </dt>
+
+            <dd>
+               R @Html.DisplayFor(model => model.Bookingfee)
+            </dd>
+
+    </div>
+
+    <div class="col-sm-5">
+        <h3>Make Payment</h3>
+        <p>Complete Your Payment Now, with PayFast.</p>
+        <hr />
+        <div class="row">
+            <div class="col-md-4 my-2">
+                <div class="pb-4">
+                    <img src="~/Content/Images/Fastpay (1).png" width="180" />
+                </div>
+            </div>
+        </div>
+        <form action="https://sandbox.payfast.co.za​/eng/process" method="post">
+            <input type="hidden" name="merchant_id" value="10000100" />
+            <input type="hidden" name="merchant_key" value="46f0cd694581a" />
+            <input type="hidden"
+                   name="return_url"
+                   value="@Request.Url.AbsoluteUri.Replace(Request.Path,"/home/Payed")" />
+            <input type="hidden"
+                   name="cancel_url"
+                   value="@Request.Url.AbsoluteUri" />
+
+
+            <input type="hidden" name="amount" value="@Model.Bookingfee" />
+            <input type="hidden" name="payment_method" value="cc" />
+            <input type="hidden" name="item_name" value="Order #" />
+            <div class="checkout-btn">
+                <button type="submit" class="btn btn-primary">Pay Now</button>
+            </div>
+        </form>
+
+    </div>
+
+
+
+</div>

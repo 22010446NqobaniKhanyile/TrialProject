@@ -1,0 +1,18 @@
+﻿@model Bakery_Shop.Models.Order
+@{
+    ViewBag.Title = "OrderPickup";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<h4>Order Pickup</h4>
+<hr />
+<p>Order <b>@Model.OrderId</b> has been picked up & is on route.</p>
+<hr />
+<p class="px-2 py-3 bg-dark text-light mb-3">Order Details</p>
+<div class="my-3">
+    <p>Client Email : @Model.CustomerEmail</p>
+    <p>Client Email : @Model.CustomerPhone</p>
+    <p>Shipping Address : @Model.Address</p>
+</div>
+<a href="@Url.Action("Startdelivery", "Driver", new { ordid=Model.OrderId})" class="btn btn-success">Start delivery</a>
+

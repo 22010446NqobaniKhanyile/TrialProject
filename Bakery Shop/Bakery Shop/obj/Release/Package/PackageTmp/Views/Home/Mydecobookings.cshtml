@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Bakery_Shop.Models.Decobooking>
+
+@{
+    ViewBag.Title = "Mydecobookings";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>My deco bookings</h2>
+
+<p>
+</p>
+<table class="table">
+    <tr>
+       
+       
+        <th>
+            @Html.DisplayNameFor(model => model.Bookingdate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Numberofguest)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Isdeliveryrequested)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+       
+       
+        <th>
+            @Html.DisplayNameFor(model => model.Bookingfee)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Returndate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+       
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.Bookingdate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Numberofguest)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Isdeliveryrequested)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+       
+        <td>
+           R @Html.DisplayFor(modelItem => item.Bookingfee)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Returndate)
+        </td>
+        <td>
+            @if (item.Statusnum != 7 && item.Statusnum != 8)
+            {
+                <a href="/home/cancelbooking?boid=@item.Id" class="btn btn-danger">Cancel</a>
+
+            }
+
+            @if (item.Statusnum == 8)
+            {
+                <a href="/images/uploads/Refundslip/@item.Id/@item.Refundslip" class="btn btn-danger">View refund slip</a>
+
+            }
+        </td>
+    </tr>
+}
+
+</table>

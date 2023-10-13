@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Bakery_Shop.Models.Order>
+@{
+    ViewBag.Title = "Orders";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>My Current Orders</h4>
+@if (Model.Count() != 0)
+{
+    <div class="my-3">
+        <p>Click the bytton below to track any order.</p>
+        <a href="@Url.Action("TrackOrder", "Order")" class="btn btn-primary">Track Order</a>
+    </div>
+}
+
+@if (ViewBag.Count == 0)
+{
+    <p>You have no orders at a moment.</p>
+}
+else
+{
+    <table class="table table-bordered" >
+        <tr>
+            <th>Tracking No</th>
+            <th>OrderNo</th>
+            <th>Order Date</th>
+            <th>Total</th>
+            <th>Action</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.TrackingNumber</td>
+            <td>@item.OrderId</td>
+            <td>@item.OrderDate</td>
+            <td>@item.Total</td>
+            <td>
+                @if (item.isPayed)
+                {
+                    <a href="@Url.Action("OrderDetails", "Customer", new { id = item.OrderId})" class="btn btn-success">Details</a>
+
+                    if (item.Status != "Order cancellation submited" && item.isCancelled != true)
+                    {
+                        <a href="/customer/Cancelorder?ordid=@item.OrderId" class="btn btn-danger"> Cancel Order</a>
+                        <a href="/Order/OrderTrackingProgress?TrackingNumber=@item.TrackingNumber" class="btn btn-info">Track order</a>
+
+                    }
+
+                    else
+                    {
+                        <a href="/images/uploads/OrderRefundslip/@item.OrderId/@item.Cancelationfile" class="btn btn-danger">View refund slip</a>
+
+                    }
+                }
+                else
+                {
+                    if (item.isPayed == false)
+                    {
+                        <a href="@Url.Action("PayLater", "Customer", new { OrderNo = item.OrderNo})" class="btn btn-dark">Pay Now</a>
+                    }
+                }
+            </td>
+            </tr>
+        }
+    </table>
+}
+
+<div>
+    <a href="@Url.Action("ViewCustom", "Order")">Go To Customized Orders</a>
+</div>

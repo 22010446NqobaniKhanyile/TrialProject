@@ -1,0 +1,284 @@
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll.config
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.pdb
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Owin.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.pdb
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll.config
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.AssemblyReference.cache
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.CopyComplete
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.pdb
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll.config
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.pdb
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Owin.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.pdb
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll.config
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csprojAssemblyReference.cache
+D:\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.CoreCompileInputs.cache
+D:\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.CopyComplete
+D:\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.dll
+D:\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.pdb
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll.config
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.pdb
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Owin.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.pdb
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll.config
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csprojResolveAssemblyReference.cache
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.pdb
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll.config
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.pdb
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\itextsharp.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Twilio.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Owin.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.pdb
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll.config
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\itextsharp.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Twilio.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.AssemblyReference.cache
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.CopyComplete
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.pdb
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\itextsharp.pdfa.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop.Tests\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll.config
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.Tests.pdb
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\itextsharp.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\itextsharp.pdfa.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Twilio.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Owin.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.pdb
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Bakery Shop.dll.config
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\itextsharp.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Twilio.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csprojAssemblyReference.cache
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.CoreCompileInputs.cache
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.csproj.CopyComplete
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop.Tests\obj\Debug\Bakery Shop.Tests.pdb

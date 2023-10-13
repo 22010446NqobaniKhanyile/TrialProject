@@ -1,0 +1,76 @@
+﻿@model Bakery_Shop.Models.Deco
+
+@{
+    ViewBag.Title = "Decodetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+
+    <div class="row">
+
+
+        <div class="col-sm-7">
+
+            <div style="height:400px;">
+
+                <img src="/images/uploads/decos/@Model.Id/@Model.Picname" style="height:100%;border-radius:5px;width:100%" />
+
+            </div>
+
+
+        </div>
+
+        <div class="col-sm-5" >
+
+            <h5>@Model.Package_name</h5>
+
+            <br />
+
+            <h6 style="height:4em">
+
+                @Model.Packagedescription
+            </h6>
+
+            <br />
+
+
+            <h5>
+                Price per day : R @Model.Package_price
+            </h5>
+
+
+
+
+            <div>
+                <form action="/home/Bookdeco" method="post">
+
+                    <input type="hidden" name="did" value="@Model.Id" />
+                    <label>Date:</label>
+                    <input type="datetime-local" class="form-control" required name="date" />
+
+                    <br />
+
+
+                    <label>Number of days</label>
+
+                    <input type="number" min="1" name="numofdays" required class="form-control"/>
+
+                    <br />
+                    <input type="submit" class="btn btn-success" value="submit" />
+                </form>
+            </div>
+
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
+<hr />
+<br />
+@Html.Action("Decopieces", "Home")

@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "MakePayment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h3>Make Payment</h3>
+<p>Complete Your Payment Now, with PayFast.</p>
+<hr />
+<div class="row">
+    <div class="col-md-4 my-2">
+        <div class="pb-4">
+            <img src="~/Content/Images/Fastpay (1).png" width="180" />
+        </div>
+    </div>
+</div>
+<form action="https://sandbox.payfast.co.za​/eng/process" method="post">
+    <input type="hidden" name="merchant_id" value="10000100" />
+    <input type="hidden" name="merchant_key" value="46f0cd694581a" />
+   
+
+    <input type="hidden"
+           name="return_url"
+           value="@Request.Url.AbsoluteUri.Replace(Request.Path,"/ShoppingCart/PaymentSuccess")" />
+    <input type="hidden"
+           name="cancel_url"
+           value="@Request.Url.AbsoluteUri" />
+
+    <input type="hidden" name="amount" value="@ViewBag.Total" />
+    <input type="hidden" name="payment_method" value="cc" />
+    <input type="hidden" name="item_name" value="Order # @ViewBag.OrderNo" />
+    <div class="checkout-btn">
+        <button type="submit" class="btn btn-primary">Complete Payment</button>
+    </div>
+</form>

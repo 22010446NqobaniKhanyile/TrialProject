@@ -1,0 +1,56 @@
+﻿@model Bakery_Shop.Models.Ordercancelation
+
+@{
+    ViewBag.Title = "Approveacancelation";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<h2>Approve cancelation</h2>
+
+<h4>Please note you need to pay the customer R @ViewBag.c  and upload proof of payment</h4>
+
+@using (Html.BeginForm("Approveacancelation", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.OrderId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.Id, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.HiddenFor(model => model.OrderId, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.DisplayFor(model => model.OrderId, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.OrderId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Reason, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Reason, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Reason, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Cancelationfile, "Please upload refund slip", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="file" required class="form-control" name="file" />
+                @Html.ValidationMessageFor(model => model.Cancelationfile, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Submit processed cancelation" class="btn btn-danger" />
+            </div>
+        </div>
+    </div>
+}
+
+

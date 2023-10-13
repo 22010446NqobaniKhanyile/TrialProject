@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Bakery_Shop.Models.CartView>
+    @{
+        ViewBag.Title = "Checkout";
+        double Total = 0;
+    }
+
+    <div class="container">
+        <main>
+            <div class="py-3 text-start">
+                <h2>Checkout</h2>
+            </div>
+
+            <div class="row g-5">
+                <div class="col-md-5 col-lg-4 order-md-last">
+                    <h4 class="d-flex justify-content-between align-items-center mb-3">
+                        <span class="text-primary">Your cart</span>
+                        <span class="badge bg-primary rounded-pill">@ViewBag.CartCount</span>
+                    </h4>
+                    <ul class="list-group mb-3">
+                        @foreach (var item in Model)
+                        {
+                            <li class="list-group-item d-flex justify-content-between lh-sm py-3">
+                                <div>
+                                    <h6 class="my-0">@item.ProdName</h6>
+                                </div>
+                                <span class="text-muted"><span>R</span>@item.ProdPrice</span>
+                            </li>
+                            Total = Total + item.ProdPrice * item.ProdQty;
+                        }
+                        <li class="list-group-item d-flex justify-content-between">
+                            <span>Total (R)</span>
+                            <strong><span>R</span>@Total</strong>
+                        </li>
+                    </ul>
+
+                </div>
+                <div class="col-md-7 col-lg-8">
+                    <h5 class="mb-3 light-text">Billing address</h5>
+                    @using (Html.BeginForm("ProceedCheckout", "ShoppingCart", FormMethod.Post))
+                    {
+                        <div class="row g-3">
+                            <div class="col-sm-6">
+                                <label for="firstName" class="form-label">First name</label>
+                                <input type="text" autocomplete="off" name="FirstName" class="form-control" id="FirstName" placeholder="">
+                            </div>
+                            <input type="hidden" name="Total" value="@Total" />
+
+                            <div class="col-sm-6">
+                                <label for="lastName" class="form-label">Last name</label>
+                                <input type="text" autocomplete="off" name="LastName" class="form-control" id="LastName" placeholder="" spellcheck="false" data-ms-editor="true">
+                            </div>
+
+
+                            <div class="col-12">
+                                <label for="email" class="form-label">Email <span class="text-danger">*</span></label>
+                                <input type="email" autocomplete="off" name="CustomerEmail" class="form-control" id="CustomerEmail" placeholder="you@example.com">
+                            </div>
+
+                            <div class="col-12">
+                                <label for="address" class="form-label">Address <span class="text-danger">*</span></label>
+                                <input type="text" autocomplete="off" name="Address" class="form-control" id="Address" placeholder="1234 Main St" spellcheck="false" data-ms-editor="true">
+                            </div>
+
+                            <div class="col-12">
+                                <label for="address2" class="form-label">Phone <span class="text-danger">*</span></label>
+                                <input type="text" autocomplete="off" class="form-control" id="CustomerPhone" name="CustomerPhone" placeholder="076 0887 109" spellcheck="false" data-ms-editor="true">
+                            </div>
+                            <div class="col-12">
+                                <label for="zip" class="form-label">Zip</label>
+                                <input type="text" autocomplete="off" name="ZipCode" class="form-control" id="ZipCode" placeholder="" spellcheck="false" data-ms-editor="true">
+                            </div>
+                        </div>
+
+                        <hr class="my-4">
+
+                        <button class="w-100 btn btn-primary btn-lg" type="submit">Continue to checkout</button>
+                    }
+                </div>
+            </div>
+        </main>
+    </div>

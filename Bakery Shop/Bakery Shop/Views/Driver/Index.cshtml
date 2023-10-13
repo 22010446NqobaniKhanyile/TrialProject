@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Bakery_Shop.Models.Driver>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<h4>Drivers</h4>
+<p>Assign Drivers to Order(s).</p>
+<hr />
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Email</td>
+            <td>@item.Phone</td>
+        </tr>
+    }
+</table>
+

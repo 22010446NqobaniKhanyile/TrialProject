@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Success";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<div class="bg-dark p-4 rounded-2 text-center">
+    <i class="fa fa-check-circle text-success alert-icon"></i>
+    <p class="text-light mt-1">Your Request is Successful! <b>Product Added</b>.</p>
+    <a href="@Url.Action("NewProduct", "Bakery")" class="btn btn-primary">
+        <i class="fa fa-plus"></i>
+        Add New
+    </a>
+    <a href="@Url.Action("Products", "Bakery")" class="btn btn-light">
+        <i class="fa fa-plus"></i>
+        View Products
+    </a>
+</div>
+

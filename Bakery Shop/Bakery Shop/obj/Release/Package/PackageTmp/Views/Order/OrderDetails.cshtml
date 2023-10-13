@@ -1,0 +1,54 @@
+﻿@model Bakery_Shop.Models.Order
+@{
+    ViewBag.Title = "Order Details";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<h4>Order Details</h4>
+
+<hr />
+<p>Order Number : <b>@Model.OrderId</b></p>
+<p>Client Email : @Model.CustomerEmail</p>
+<p>Client Phone : @Model.CustomerPhone</p>
+<p>Status : <span class="badge badge-primary">@Model.Status</span></p>
+<table class="table table-bordered mt-2">
+    <tr class="bg-dark text-light">
+        <th>Name</th>
+        <th>Quantity</th>
+        <th>Price</th>
+    </tr>
+    @foreach (var item in Model.OrderDetails)
+    {
+        <tr>
+            <td>@item.Product.ProductName</td>
+            <td>@item.Quantity</td>
+            <td><span>R</span>@item.ProductPrice</td>
+        </tr>
+    }
+</table>
+<div class="container">
+    <hr />
+    <p><b>Total</b></p>
+    <h5>R @Model.Total</h5>
+    <hr />
+</div>
+<hr />
+
+@if (Model.Status != "Order cancellation submited" && Model.isCancelled != true)
+{
+
+    if (!Model.isPreparing)
+    {
+        <a href="@Url.Action("PrepareOrder", "Order", new { id=Model.OrderId})" class="btn btn-danger">Prepare Order</a>
+    }
+
+    if (Model.isPreparing && Model.AssignedDriverId == null)
+    {
+        <a href="@Url.Action("AssignDriver", "Order", new { id=Model.OrderId})" class="btn btn-primary">Assign Driver</a>
+    }
+}
+
+
+
+
+

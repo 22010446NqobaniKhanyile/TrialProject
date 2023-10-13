@@ -1,0 +1,95 @@
+﻿@model IEnumerable<Bakery_Shop.Models.Decobooking>
+
+@{
+    ViewBag.Title = "Decobookings";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+
+}
+
+<h2>Deco bookings</h2>
+
+<p>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Useremail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bookingdate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Numberofguest)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Isdeliveryrequested)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+       
+        <th>
+            @Html.DisplayNameFor(model => model.Bookingfee)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Returndate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Useremail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Bookingdate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Numberofguest)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Isdeliveryrequested)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        
+       
+        <td>
+           R @Html.DisplayFor(modelItem => item.Bookingfee)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Returndate)
+        </td>
+        <td>
+            @if (! (item.Statusnum >3))
+            {
+                <a href="/deco/processorder?bid=@item.Id" class="btn btn-primary">
+                    <i class="fa fa-pen"></i>
+                </a>
+            }
+            @if (item.Statusnum == 7)
+            {
+                <a href="/deco/Approveacancelation?bid=@item.Id" class="btn btn-danger">
+                    <i class="fa fa-pen"></i>Process booking cancelation 
+                </a>
+            }
+
+        </td>
+    </tr>
+}
+
+</table>

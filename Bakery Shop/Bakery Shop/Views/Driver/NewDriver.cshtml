@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "New Driver";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<h4>Add New Driver</h4>
+@using (Html.BeginForm("NewDriver", "Driver", FormMethod.Post))
+{
+
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+    <div class="col-5">
+        <div class="form-group">
+            <label>Name</label>
+            <input type="text" class="form-control" placeholder="John Doe" name="Name" />
+        </div>
+        <div class="form-group">
+            <label>Phone</label>
+            <input type="tel" class="form-control" placeholder="076 6660 054" name="Phone" />
+        </div>
+        <div class="form-group">
+            <label>Email</label>
+            <input type="email" name="Email" class="form-control" placeholder="example@gmail.com" />
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary">Add Driver</button>
+        </div>
+    </div>
+}
+

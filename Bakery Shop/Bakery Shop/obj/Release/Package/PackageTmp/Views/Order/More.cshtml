@@ -1,0 +1,70 @@
+﻿@model Bakery_Shop.Models.CustomOrder
+@{
+    ViewBag.Title = "More";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<h4>More Details About Order</h4>
+<p>Order #<b>@Model.CustomOrderID</b></p>
+<p>Placed On <b>@Model.OrderDate</b></p>
+<p class="my-3 px-3 py-2 bg-dark text-light">Cake Details</p>
+
+<div class="my-3">
+    <p>Cake Sketch.</p>
+    <img src="/@Model.SketchImage" width="70" alt="Alternate Text" />
+</div>
+
+@*<table class="table-bordered">
+        <tr>
+            <th>Cake type</th>
+            <th>Cake Filling</th>
+            <th>Cake Icing</th>
+            <th>Cake Flavour</th>
+        </tr>
+        <tr>
+            <td>@Model.CakeType</td>
+            <td>@Model.Filling</td>
+            <td>@Model.Icing</td>
+            <td>@Model.Flavour</td>
+        </tr>
+    </table>*@
+
+
+<div class="card">
+    <div class="table-responsive pt-3">
+        <table class="table table-striped project-orders-table">
+            <thead>
+                <tr>
+                    <th>Cake type</th>
+                    <th>Cake Filling</th>
+                    <th>Cake Icing</th>
+                    <th>Cake Flavour</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.CakeType</td>
+                    <td>@Model.Filling</td>
+                    <td>@Model.Icing</td>
+                    <td>@Model.Flavour</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@if (Model.Deliverydate == null)
+{
+    if (!Model.IsReady)
+    {
+        <p class="alert alert-info my-2">Confirm here when the order ready.</p>
+        <a class="btn btn-success" href="@Url.Action("ConfirmOrderReady", "Order", new {id=Model.CustomOrderID})">Confirm Now</a>
+    }
+    if (Model.IsReady)
+    {
+        <p class="alert alert-info my-2">Assign Driver to this Order.</p>
+        <a class="btn btn-secondary" href="@Url.Action("AssignDriverCustom", "Order", new {id=Model.CustomOrderID})">Assign Driver</a>
+
+    }
+}
+

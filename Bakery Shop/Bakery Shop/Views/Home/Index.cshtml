@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div class="banner px-5">
+    <div>
+        <h2 style="font-weight:300" class="text-white">TABULA RASA</h2>
+        <p class="text-white" style="font-weight:300">
+            Our cakes are little treats made to be shared and enjoyed. They are full of flavor and go great with just about anything.
+        </p>
+        <a href="@Url.Action("Shop", "Bakery")" class="btn btn-primary light-text rounded-2" style="padding: 6px 16px; font-size:15px;">
+            Place Order
+            <i class="fa fa-shopping-bag btn-icon" aria-hidden="true"></i>
+        </a>
+    </div>
+</div>
+<!--Content Title-->
+<div class="bg-light mt-3" style="border-bottom:3px solid black">
+    <h5 class="px-4 py-3 m-0 light-text">Benefits</h5>
+</div>
+<!--End Of Content Title-->
+<div class="row py-4">
+    <div class="col-md-4">
+        <div class="card rounded-2 py-4">
+            <div class="card-body d-flex flex-column align-items-center text-center">
+                <h4 class="card-text light-text">We Deliver</h4>
+                <div class="card-icon">
+                    <i class="fa fa-motorcycle text-success" aria-hidden="true"></i>
+                </div>
+                <a href="#" class="btn btn-black">More</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card rounded-2 py-4">
+            <div class="card-body d-flex flex-column align-items-center text-center">
+                <h4 class="card-text light-text">Delicious Cakes</h4>
+                <div class="card-icon">
+                    <i class="fa fa-birthday-cake text-warning" aria-hidden="true"></i>
+                </div>
+                <a href="#" class="btn btn-black">More</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card rounded-2 py-4">
+            <div class="card-body d-flex flex-column align-items-center text-center">
+                <h4 class="card-text light-text">Fast & Easy to use</h4>
+                <div class="card-icon">
+                    <i class="fa fa-clock text-primary" aria-hidden="true"></i>
+                </div>
+                <a href="#" class="btn btn-black">More</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card{
+        border-bottom: 2px solid black;
+    }
+    .card-icon {
+        font-size: 60px;
+    }
+</style>

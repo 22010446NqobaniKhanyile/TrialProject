@@ -1,0 +1,65 @@
+﻿*{
+    margin:0;
+    padding:0;
+
+}
+.alert-icon{
+    font-size: 50px;
+}
+input[type="text"], input[type="password"], select {
+    height: 40px;
+    font-weight: 300;
+}
+.form-heading
+{
+    font-weight:300;
+    margin-top:8px;
+}
+body{
+    background: rgb(242, 242, 242)
+}
+form label{
+    font-weight:300;
+}
+.form-link{
+    font-weight:300;
+}
+.form-link a {
+    text-decoration: none;
+    font-weight:400;
+}
+.shopping-cart{
+    position: relative;
+    padding:0 16px;
+}
+.cart-counter {
+    position:absolute;
+    left:60%;
+    top:0;
+    width:20px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:20px;
+    background:red;
+    color:white;
+    border-radius:2px;
+}
+.body-content{
+    padding-top:128px;
+}
+.banner {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgb(0, 0, 0, 0.72), rgb(0, 0, 0, 0.72)), url(/Content/Images/Slider2.jpg);
+    background-size: cover;
+    background-position: center;
+    display:flex;
+    align-items:center;
+}
+.light-text{
+    font-weight:300;
+}
+.btn-icon{
+    margin-left:8px;
+}

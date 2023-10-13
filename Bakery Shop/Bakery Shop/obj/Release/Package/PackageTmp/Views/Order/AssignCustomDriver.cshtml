@@ -1,0 +1,52 @@
+﻿@model Bakery_Shop.Models.CustomOrder
+@{
+    ViewBag.Title = "AssignCustomDriver";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<div class="row">
+    <div class="col-4">
+        <p>Assign Driver to Order Number # <b>@ViewBag.OrderId</b></p>
+        @using (Html.BeginForm("AssignDriver", "Order", FormMethod.Post))
+        {
+            <input type="hidden" name="OrderId" value="@ViewBag.OrderId" />
+            <div class="form-group">
+                <label class="col-form-label">Select Driver</label>
+                @Html.DropDownListFor(m => m.AssignedDriverId, ViewBag.Drivers as SelectList, "-- Select Category --", new { @class = "form-control select" })
+                @*@Html.DropDownList("DriverId", new SelectList(ViewBag.Orders, "DriverId", "Name"), new { @class = "form-control col-md-8" })*@
+            </div>
+            <div class="form-group pt-1">
+                <button class="btn btn-success">Confirm Request</button>
+            </div>
+        }
+    </div>
+    <div class="col-8">
+        <p>Driver List.</p>
+        <table class="table table-bordered">
+            <tr>
+                <th>Name</th>
+                <th>Status</th>
+                <th>Assigned Orders</th>
+            </tr>
+            @foreach (var item in ViewBag.DriversList)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>
+                        @if (item.IsAvailable)
+                        {
+                            <span class="badge badge-success">Available</span>
+                        }
+                        else
+                        {
+                            <span class="badge badge-danger">Unvailable</span>
+                        }
+                    </td>
+                    <td>@item.TotalDeliveries</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+
+

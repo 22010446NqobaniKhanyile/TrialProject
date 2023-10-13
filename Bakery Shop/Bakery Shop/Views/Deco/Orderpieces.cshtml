@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Bakery_Shop.Models.Orderpiece>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+</head>
+<body>
+   
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Bookingid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pieceid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Booked)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bookingid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pieceid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Booked)
+            </td>
+            <td>
+               
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

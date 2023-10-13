@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Bakery_Shop.Models.CustomOrder>
+@{
+    ViewBag.Title = "CustomDeliveries";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<div class="card">
+    <div class="table-responsive pt-3">
+        <table class="table table-striped project-orders-table">
+            <thead>
+                <tr>
+                    <th>Order No</th>
+                    <th>Order Date</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count() == 0)
+                {
+                    <tr>
+                        <td colspan="5">
+                            <p class="py-2 px-3 bg-dark text-light">No Deliveries available for you.</p>
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.CustomOrderID</td>
+                            <td>@item.OrderDate</td>
+                            <td>@item.Email</td>
+                            <td>@item.Phone</td>
+                            <td><p class="badge badge-success">@item.Status</p></td>
+                            <td>
+
+                                @if (!item.isArriving)
+                                {
+                                    <a class="btn btn-secondary" href="@Url.Action("OrderPickupCustom", "Driver", new { id=item.CustomOrderID})">Pickup Order</a>
+                                }
+                                @if (item.isArriving && !item.isDelivered)
+                                {
+                                    <a class="btn btn-success" href="@Url.Action("DeliverOrderCustom", "Driver", new { id=item.CustomOrderID})">Deliver Order</a>
+                                }
+
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

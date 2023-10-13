@@ -1,0 +1,49 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-auth" }))
+    {
+        @Html.AntiForgeryToken()
+
+<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+    @if (!User.IsInRole("Admin"))
+    {
+        <li class="nav-item shopping-cart">
+            <a class="nav-link " href="@Url.Action("Cart", "ShoppingCart")">
+                <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                (@ViewBag.CartCount)
+            </a>
+        </li>
+    }
+    <li class="btn btn-danger m-0 d-flex align-items-center"><a class="m-0 text-decoration-none text-white" href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+</ul>
+    }
+}
+else
+{
+<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+    @if (!User.IsInRole("Admin"))
+    {
+        <li class="nav-item shopping-cart">
+            <a class="nav-link " href="@Url.Action("Cart", "ShoppingCart")">
+                <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                (@ViewBag.CartCount)
+            </a>
+        </li>
+    }
+    <li class="nav-item">
+        <a class=" btn btn-success rounded-2" href="@Url.Action("Register", "Account")">Sign Up</a>
+    </li>
+    <li class="nav-item">
+        <a class=" btn btn-primary rounded-2" href="@Url.Action("Login", "Account")">Login</a>
+    </li>
+</ul>
+}
+<style>
+    .navbar-auth {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        width: 100%;
+    }
+</style>

@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "NewCategory";
+    Layout = "~/Views/Shared/_Manager.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <form>
+            <div class="form-group">
+                <div class="mb-3">
+                    <label for="CategoryName" class="form-label">Category Name</label>
+                    <input type="text" class="form-control" id="CategoryName" name="CategoryName" placeholder="Cake">
+                </div>
+            </div>
+            <div class="form-group">
+                <button type="button" onclick="AddCategory()" class="btn btn-primary">Add Category</button>
+            </div>
+        </form>
+    </div>
+</div>
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    function AddCategory() {
+        $.ajax({
+                type: "POST",
+                url: "@Url.Action("AddCategory", "Categories")",
+                data: {
+                    CategoryName: $('#CategoryName').val()
+                },
+                dataType: "json",
+                success: function (res) {
+                    Swal.fire(
+                        'Success!',
+                        'Category ! ' + res + " Added",
+                        'success'
+                    )
+                    Swal.fire({
+                        title: 'Success',
+                        text: 'Category ! ' + res + " Added",
+                        icon: 'success',
+                        showCancelButton: false,
+                        confirmButtonColor: '#3085d6',
+                        cancelButtonColor: '#d33',
+                        confirmButtonText: 'Okay'
+                    }).then((result) => {
+                        if (result.isConfirmed) {
+                            location.replace("/Categories/Categories")
+                        }
+                    })
+                }
+            })
+    }
+</script>

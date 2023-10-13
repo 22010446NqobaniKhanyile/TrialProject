@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Bakery_Shop.Models.Decopiece>
+
+@{
+    ViewBag.Title = "Sidedecopieces";
+    Layout = null;
+}
+
+<h2>Deco pieces</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Piecename)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pieceimage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pieceprice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Decoid)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Piecename)
+            </td>
+            <td>
+                <img src="/images/uploads/decopiece/@item.Id/@item.Pieceimage" style="height:100px;width:100px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pieceprice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Decoid)
+            </td>
+            <td></td>
+        </tr>
+    }
+
+</table>

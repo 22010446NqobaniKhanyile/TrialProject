@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Bakery_Shop.Models.CustomOrder>
+@{
+    ViewBag.Title = "ViewCustom";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h2>Customized order</h2>
+    <hr />
+    <a href="@Url.Action("TrackOrder", "Order")" class="btn btn-dark mb-4">Track Order</a>
+    <table class="table table-bordered">
+        <tr>
+            <th>Name(s)</th>
+            <th>Track No</th>
+            <th>No Of Servings</th>
+            <th>Flavour</th>
+            <th>Icing</th>
+            <th>Status</th>
+            <th>Filling</th>
+            <th>CakeType</th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FirstName  @item.LastName</td>
+                <td>@item.TrackingNumber</td>
+                <td>@item.numberOfServings</td>
+                <td>@item.Flavour</td>
+                <td>@item.Icing</td>
+                <td><p class="text-success">@item.Status</p></td>
+                <td>@item.Filling</td>
+                <td>@item.CakeType</td>
+                <td><a href="/Order/OrderTrackingProgress?TrackingNumber=@item.TrackingNumber" class="btn btn-info">Track order</a></td>
+            </tr>
+        }
+    </table>
+</div>
+

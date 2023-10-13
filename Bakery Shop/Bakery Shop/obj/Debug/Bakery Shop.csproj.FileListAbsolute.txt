@@ -1,0 +1,1319 @@
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Users\MR-STARK\source\repos\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+D:\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+D:\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+D:\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+D:\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+D:\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+D:\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+D:\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+D:\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+D:\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+D:\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+D:\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+D:\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+D:\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+D:\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+D:\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+D:\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+D:\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+D:\Bakery Shop\Bakery Shop\bin\Owin.dll
+D:\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+D:\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+D:\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+D:\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+D:\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+D:\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+D:\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+D:\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+D:\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+D:\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+D:\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+D:\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+D:\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+D:\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+D:\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+D:\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+D:\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+D:\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+D:\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csprojAssemblyReference.cache
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+D:\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedOrder.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrder.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrderPay.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddRoles.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csprojAssemblyReference.cache
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedOrder.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrder.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrderPay.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddRoles.resources
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Users\MR-STARK\Desktop\HACKERTHON\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDateToString.resources
+C:\Users\MR-STARK\Desktop\STARK INDUSTRIES\APDP III 2022\MVC\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDetails.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csprojResolveAssemblyReference.cache
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedOrder.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrder.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrderPay.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddRoles.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDateToString.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDetails.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.Cache
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddDriver.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddName.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.DriverPhone.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.EditOrder.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.BakeryAddStatus.resources
+C:\Users\27842\OneDrive - Durban University of Technology\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderAddConfirmDelivery.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedOrder.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrder.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrderPay.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddRoles.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDateToString.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDetails.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddDriver.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddName.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.DriverPhone.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.EditOrder.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.BakeryAddStatus.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderAddConfirmDelivery.resources
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Twilio.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\Twilio.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\BouncyCastle.Crypto.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\itextsharp.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\itextsharp.pdfa.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\itextsharp.xmlworker.dll
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\bin\itextsharp.xml
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\MR-STARK\Desktop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.CustomOrders.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\BouncyCastle.Crypto.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.pdfa.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.xmlworker.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Twilio.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Twilio.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.AssemblyReference.cache
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedOrder.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrder.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrderPay.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddRoles.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDateToString.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDetails.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddDriver.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddName.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.DriverPhone.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.EditOrder.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.BakeryAddStatus.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderAddConfirmDelivery.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.CustomOrders.resources
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Users\Zakhe\Documents\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\BouncyCastle.Crypto.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.pdfa.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.xmlworker.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Twilio.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Twilio.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csprojAssemblyReference.cache
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedOrder.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrder.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrderPay.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddRoles.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDateToString.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDetails.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddDriver.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddName.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.DriverPhone.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.EditOrder.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.BakeryAddStatus.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderAddConfirmDelivery.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.CustomOrders.resources
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Users\WORLDAFRIKA\Downloads\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csprojAssemblyReference.cache
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedOrder.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrder.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrderPay.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddRoles.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDateToString.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDetails.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddDriver.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddName.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.DriverPhone.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.EditOrder.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.BakeryAddStatus.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderAddConfirmDelivery.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.CustomOrders.resources
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\BouncyCastle.Crypto.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.pdfa.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.xmlworker.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Twilio.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Twilio.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WORLDAFRIKA\source\repos\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll.config
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Bakery Shop.pdb
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.exe.config
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csc.rsp
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.exe.config
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\csi.rsp
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.AppContext.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Console.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Http.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.ValueTuple.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.exe.config
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\vbc.rsp
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\BouncyCastle.Crypto.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.pdfa.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.xmlworker.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Logging.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Owin.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Twilio.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\WebGrease.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\itextsharp.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Newtonsoft.Json.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Helpers.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Mvc.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Optimization.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.Razor.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Deployment.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\System.Web.WebPages.Razor.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Twilio.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Antlr3.Runtime.pdb
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\EntityFramework.SqlServer.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Google.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.AssemblyReference.cache
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.InitialCreate.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabase.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.seedDatabaseUpdateProduct.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedData.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataAddCategory.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataRenameCategory.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToDouble.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedDataProductPriceToString.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.ProductPriceToDouble.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.SeedOrder.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrder.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.UpdateOrderPay.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddRoles.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDateToString.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderDetails.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddDriver.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.AddName.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.DriverPhone.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.EditOrder.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.BakeryAddStatus.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.OrderAddConfirmDelivery.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery_Shop.Migrations.CustomOrders.resources
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.GenerateResource.cache
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CoreCompileInputs.cache
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.csproj.CopyComplete
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.dll
+C:\Desktop\Bakery ShopZip\Bakery Shop\Bakery Shop\Bakery Shop\obj\Debug\Bakery Shop.pdb
